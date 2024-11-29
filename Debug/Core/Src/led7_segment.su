@@ -1,0 +1,11 @@
+led7_segment.c:10:6:off	8	static
+led7_segment.c:20:6:zero	8	static
+led7_segment.c:30:6:one	8	static
+led7_segment.c:39:6:two	8	static
+led7_segment.c:48:6:three	8	static
+led7_segment.c:57:6:four	8	static
+led7_segment.c:66:6:five	8	static
+led7_segment.c:75:6:six	8	static
+led7_segment.c:84:6:seven	8	static
+led7_segment.c:93:6:eight	8	static
+led7_segment.c:102:6:nine	8	static
